@@ -1,6 +1,7 @@
 # Tideman_election_with_C
 
 Problen set 3 from the famous CS50 - determining the winner of the election with C
+https://cs50.harvard.edu/x/2022/psets/3/tideman/
 
 You already know about plurality elections, which follow a very simple algorithm for determining the winner of an election: every voter gets one vote, and the candidate with the most votes wins.
 
